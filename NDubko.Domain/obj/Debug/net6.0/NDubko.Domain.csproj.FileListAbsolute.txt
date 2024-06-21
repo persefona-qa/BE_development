@@ -1,0 +1,11 @@
+C:\Users\olherasymchuk\source\repos\NDubko\NDubko.Domain\bin\Debug\net6.0\NDubko.Domain.deps.json
+C:\Users\olherasymchuk\source\repos\NDubko\NDubko.Domain\bin\Debug\net6.0\NDubko.Domain.dll
+C:\Users\olherasymchuk\source\repos\NDubko\NDubko.Domain\bin\Debug\net6.0\NDubko.Domain.pdb
+C:\Users\olherasymchuk\source\repos\NDubko\NDubko.Domain\obj\Debug\net6.0\NDubko.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olherasymchuk\source\repos\NDubko\NDubko.Domain\obj\Debug\net6.0\NDubko.Domain.AssemblyInfoInputs.cache
+C:\Users\olherasymchuk\source\repos\NDubko\NDubko.Domain\obj\Debug\net6.0\NDubko.Domain.AssemblyInfo.cs
+C:\Users\olherasymchuk\source\repos\NDubko\NDubko.Domain\obj\Debug\net6.0\NDubko.Domain.csproj.CoreCompileInputs.cache
+C:\Users\olherasymchuk\source\repos\NDubko\NDubko.Domain\obj\Debug\net6.0\NDubko.Domain.dll
+C:\Users\olherasymchuk\source\repos\NDubko\NDubko.Domain\obj\Debug\net6.0\refint\NDubko.Domain.dll
+C:\Users\olherasymchuk\source\repos\NDubko\NDubko.Domain\obj\Debug\net6.0\NDubko.Domain.pdb
+C:\Users\olherasymchuk\source\repos\NDubko\NDubko.Domain\obj\Debug\net6.0\ref\NDubko.Domain.dll

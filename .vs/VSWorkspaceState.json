@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\NDubko.Api",
+    "\\NDubko.Api\\Controllers",
+    "\\NDubko.Application",
+    "\\NDubko.DataAccess",
+    "\\NDubko.Database",
+    "\\NDubko.Domain"
+  ],
+  "SelectedNode": "\\NDubko.Application\\NDubko.Application.csproj",
+  "PreviewInSolutionExplorer": false
+}

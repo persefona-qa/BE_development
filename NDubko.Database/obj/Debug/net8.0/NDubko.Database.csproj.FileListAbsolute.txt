@@ -1,0 +1,17 @@
+C:\Users\olherasymchuk\source\repos\NDubko\NDubko.Database\bin\Debug\net8.0\NDubko.Database.deps.json
+C:\Users\olherasymchuk\source\repos\NDubko\NDubko.Database\bin\Debug\net8.0\NDubko.Database.runtimeconfig.json
+C:\Users\olherasymchuk\source\repos\NDubko\NDubko.Database\bin\Debug\net8.0\NDubko.Database.dll
+C:\Users\olherasymchuk\source\repos\NDubko\NDubko.Database\bin\Debug\net8.0\NDubko.Database.pdb
+C:\Users\olherasymchuk\source\repos\NDubko\NDubko.Database\bin\Debug\net8.0\NDubko.Domain.dll
+C:\Users\olherasymchuk\source\repos\NDubko\NDubko.Database\bin\Debug\net8.0\NDubko.Domain.pdb
+C:\Users\olherasymchuk\source\repos\NDubko\NDubko.Database\obj\Debug\net8.0\NDubko.Database.csproj.AssemblyReference.cache
+C:\Users\olherasymchuk\source\repos\NDubko\NDubko.Database\obj\Debug\net8.0\NDubko.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olherasymchuk\source\repos\NDubko\NDubko.Database\obj\Debug\net8.0\NDubko.Database.AssemblyInfoInputs.cache
+C:\Users\olherasymchuk\source\repos\NDubko\NDubko.Database\obj\Debug\net8.0\NDubko.Database.AssemblyInfo.cs
+C:\Users\olherasymchuk\source\repos\NDubko\NDubko.Database\obj\Debug\net8.0\NDubko.Database.csproj.CoreCompileInputs.cache
+C:\Users\olherasymchuk\source\repos\NDubko\NDubko.Database\obj\Debug\net8.0\NDubko.D.CFF03217.Up2Date
+C:\Users\olherasymchuk\source\repos\NDubko\NDubko.Database\obj\Debug\net8.0\NDubko.Database.dll
+C:\Users\olherasymchuk\source\repos\NDubko\NDubko.Database\obj\Debug\net8.0\refint\NDubko.Database.dll
+C:\Users\olherasymchuk\source\repos\NDubko\NDubko.Database\obj\Debug\net8.0\NDubko.Database.pdb
+C:\Users\olherasymchuk\source\repos\NDubko\NDubko.Database\obj\Debug\net8.0\NDubko.Database.genruntimeconfig.cache
+C:\Users\olherasymchuk\source\repos\NDubko\NDubko.Database\obj\Debug\net8.0\ref\NDubko.Database.dll
